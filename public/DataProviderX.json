@@ -1,0 +1,26 @@
+[
+    {
+        "transactionAmount": 200,
+        "Currency": "USD",
+        "senderPhone": 00201234567890,
+        "transactionStatus": 1,
+        "transactionDate": "2021-03-29 09:36:11",
+        "transactionIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+    },
+    {
+        "transactionAmount": 300,
+        "Currency": "EUR",
+        "senderPhone": 00201123456789,
+        "transactionStatus": 2,
+        "transactionDate": "2021-04-01 15:20:45",
+        "transactionIdentification": "e4e29d70-1d25-11e3-8591-034165a3a614"
+    },
+    {
+        "transactionAmount": 150,
+        "Currency": "GBP",
+        "senderPhone": 00201345678901,
+        "transactionStatus": 3,
+        "transactionDate": "2021-04-05 10:15:30",
+        "transactionIdentification": "f5f29d70-1d25-11e3-8591-034165a3a615"
+    }
+]
