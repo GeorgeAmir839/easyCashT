@@ -24,7 +24,7 @@
         "transactionIdentification": "f5f29d70-1d25-11e3-8591-034165a3a615"
     },{
         "transactionAmount": 200,
-        "Currency": "USD",
+        "currency": "USD",
         "senderPhone": 201234567890,
         "transactionStatus": 1,
         "transactionDate": "2021-03-29 09:36:11",
@@ -32,7 +32,7 @@
       },
       {
         "transactionAmount": 500,
-        "Currency": "EGP",
+        "currency": "EGP",
         "senderPhone": 201345678901,
         "transactionStatus": 3,
         "transactionDate": "2021-03-30 14:21:09",
@@ -40,7 +40,7 @@
       },
       {
         "transactionAmount": 1000,
-        "Currency": "EUR",
+        "currency": "EUR",
         "senderPhone": 201456789012,
         "transactionStatus": 1,
         "transactionDate": "2021-03-31 11:47:33",
@@ -48,7 +48,7 @@
       },
       {
         "transactionAmount": 750,
-        "Currency": "USD",
+        "currency": "USD",
         "senderPhone": 201567890123,
         "transactionStatus": 3,
         "transactionDate": "2021-04-01 08:12:15",
@@ -56,7 +56,7 @@
       },
       {
         "transactionAmount": 300,
-        "Currency": "EUR",
+        "currency": "EUR",
         "senderPhone": 201678901234,
         "transactionStatus": 1,
         "transactionDate": "2021-04-02 16:09:22",
@@ -64,7 +64,7 @@
       },
       {
         "transactionAmount": 1500,
-        "Currency": "EGP",
+        "currency": "EGP",
         "senderPhone": 201789012345,
         "transactionStatus": 1,
         "transactionDate": "2021-04-03 12:35:57",
@@ -72,7 +72,7 @@
       },
       {
         "transactionAmount": 600,
-        "Currency": "USD",
+        "currency": "USD",
         "senderPhone": 201890123456,
         "transactionStatus": 2,
         "transactionDate": "2021-04-04 07:01:39",
@@ -80,7 +80,7 @@
       },
       {
         "transactionAmount": 400,
-        "Currency": "EUR",
+        "currency": "EUR",
         "senderPhone": 201901234567,
         "transactionStatus": 1,
         "transactionDate": "2021-04-05 15:24:47",
